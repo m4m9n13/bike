@@ -1,0 +1,159 @@
+/* -- cornerhost stylesheet ------------------- */
+
+body, td, th, p, ul, li {
+   font-family:  verdana, arial,helvetica;
+   font-size: 10pt;
+}
+
+body {
+  background: #f6f6f6;
+  margin:0px;
+}
+
+
+.main {
+  background: white;
+}
+
+a {
+  font-weight: bold;
+}
+
+a:visited {
+  color: purple;
+}
+
+.sidebar { background: #ffee99; color: black; padding:5px; }
+.michal { font-family: arial; font-size:12pt; font-weight: bold; }
+
+
+li {
+  margin-bottom: 1em;
+}
+
+/* -- headlines ------------------------------- */
+
+h1 {
+  text-align: left;
+  padding-left: 10px;
+  font-family: arial, helvetica, verdana;
+  font-size: 24px;
+  color: black;
+  margin-top: 0px;
+  background: #ffee99;
+}
+
+h2 {
+  color: black;
+  display: block;
+  font-family: arial;
+  font-size: 18px;
+  background: #ffee99;
+  background: #eee;
+  padding: 4px;
+}
+
+.blurb {
+  font-family: arial;
+}
+
+.testimonial {
+  font-family: arial;
+  color: #003300;
+  font-size:12pt;
+  font-weight: bold;
+}
+
+.byline {
+   padding-left: 30px;
+}
+
+.copyright {
+  padding-left: 20px;
+  display: block;
+}
+
+img {
+  padding: 0px;
+  margin: 0px;
+}
+
+
+/* -- navbar ---------------------------------- */
+
+table.navbox td {
+  text-align: right;
+  background: #ffee99;
+}
+
+a.navlink, a.navlink:visited {
+  font-family: arial;
+  font-size:11pt;
+  color: black;
+  width: 115px;
+  padding-left: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  display: block;
+  text-decoration: none;
+  font-weight:bold;
+  padding-right: 5px;
+  text-transform: capitalize;
+  border-bottom: solid white 2px;
+}
+
+a.navlink:hover {
+  background: gold;
+}
+
+
+/* -- price charts ---------------------------- */
+
+table.chart {
+
+}
+
+table.chart th {
+  background: white;
+  color: black;
+}
+
+
+table.chart td.group {
+   background-color: forestgreen;
+   color: white;
+   font-weight: bold;
+}
+
+table.chart tr td {
+   background-color: #99ff99;
+   background: gold;
+}
+
+table.chart tr.odd td {
+   background-color: #ccffcc;
+   background: #ffee99;
+
+}
+ 
+
+/*
+     FILE ARCHIVED ON 07:23:22 Jul 13, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:00:21 Apr 03, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.452
+  exclusion.robots: 0.015
+  exclusion.robots.policy: 0.005
+  esindex: 0.007
+  cdx.remote: 9.72
+  LoadShardBlock: 162.126 (3)
+  PetaboxLoader3.datanode: 151.734 (4)
+  load_resource: 114.791
+  PetaboxLoader3.resolve: 44.634
+*/
